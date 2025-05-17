@@ -1,4 +1,4 @@
-# 🛡️ CEH v13 Notes by T10ayy
+# 🛡️ CEH v13 Notes by 10ayy
 Welcome to my **Certified Ethical Hacker(CEHv13)** study notes repository.
 This repository contains my day-wise notes from the **Certified Ethical Hacker (CEH v13)** training. It includes key concepts, tools, commands, and practical exercises that I am learning as I progress through the official CEH course.
 
@@ -51,4 +51,5 @@ This repository is for **educational purposes only**. All the tools and techniqu
 ## 📫 Connect with me
 
 [LinkedIn] https://www.linkedin.com/in/tanay-wasnik-59b49323b/
+
 [GitHub] https://github.com/10ayy/
