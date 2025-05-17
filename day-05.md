@@ -88,7 +88,7 @@ nmap -O <target>          # OS detection
 nmap -sV <target>         # Service/version detection
 nmap -p- <target>         # Scan all 65535 ports
 nmap -A <target>          # Aggressive scan (OS, version, script, traceroute)
-
+```
 
 - nmap cheetsheet - https://www.stationx.net/nmap-cheat-sheet/
 
@@ -107,4 +107,4 @@ MITRE ATT&CK is a globally accessible knowledge base of adversary tactics and te
 ## 📌 Summary
 Day 5 - Learned about the active nature and objectives of scanning. Explored key networking concepts like ports, TCP flags, and scanning types. Hands-on exposure to scanning tools and basic nmap usage. Introduction to the industry-grade MITRE ATT&CK framework. 
 
-> ⚠️ *📈 Takeaway: Scanning bridges the gap between passive intelligence gathering (footprinting) and active vulnerability exploitation. It's a critical phase in ethical hacking and red teaming.*
+>  *📈 Takeaway: Scanning bridges the gap between passive intelligence gathering (footprinting) and active vulnerability exploitation. It's a critical phase in ethical hacking and red teaming.*
