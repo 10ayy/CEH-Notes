@@ -32,7 +32,7 @@ This repository contains my day-wise notes from the **Certified Ethical Hacker (
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, Nmap scripts
 - **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`
 
 ---
