@@ -14,6 +14,37 @@ This repository contains my day-wise notes from the **Certified Ethical Hacker (
 
 ---
 
+## 📂 Repository Structure
+```bash
+CEH-Notes/
+|   
+├── day-01.md
+├── day-02.md
+├── day-03.md
+├── day-04.md
+├── day-05.md
+├── day-06.md
+├── day-07.md
+├── lab-setup.md
+└── README.md
+```
+
+---
+
+## 🧪 Lab Setup
+
+A detailed guide to setting up your own isolated CEH virtual lab using VMware/VirtualBox is available here → lab-setup.md.
+
+This setup includes:
+
+- Attacker Machine: Kali Linux / Parrot OS
+
+- Victim Machines: Metasploitable 2 and Windows 10
+
+- Networking: Host-only or NAT for isolated testing
+
+---
+
 ## 📅 Course Progress Tracker
 
 | Day | Module            | Topics Covered                                       | Link                         |
