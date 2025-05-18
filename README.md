@@ -18,6 +18,7 @@ This repository contains my day-wise notes from the **Certified Ethical Hacker (
 ```bash
 CEH-Notes/
 |   
+├── README.md
 ├── day-01.md
 ├── day-02.md
 ├── day-03.md
@@ -25,15 +26,15 @@ CEH-Notes/
 ├── day-05.md
 ├── day-06.md
 ├── day-07.md
-├── lab-setup.md
-└── README.md
+├── day-08.md
+└── lab-setup.md
 ```
 
 ---
 
 ## 🧪 Lab Setup
 
-A detailed guide to setting up your own isolated CEH virtual lab using VMware/VirtualBox is available here → lab-setup.md.
+A detailed guide to setting up your own isolated CEH virtual lab using VMware/VirtualBox is available here → [Lab Setup](lab-setup.md)
 
 This setup includes:
 
@@ -56,6 +57,8 @@ This setup includes:
 | 05  | Module 3          | Scanning - Ports, Protocols, and Nmap                | [Day 05 Notes](day-05.md)    |
 | 06  | Module 4          | Enumeration (Intro, FTP, SSH, Practical Access)      | [Day 06 Notes](day-06.md)    |
 | 07  | Module 4          | Enumeration (SMB, SNMP, LDAP, SMTP, Tools)           | [Day 07 Notes](day-07.md)    |
+| 08  | Module 7          | Malware Threats                                      | [Day 08 Notes](day-08.md)    |
+
 
 > ✅ *More updates coming as I progress in the course.*
 
