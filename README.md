@@ -27,6 +27,7 @@ CEH-Notes/
 ├── day-06.md
 ├── day-07.md
 ├── day-08.md
+├── day-09.md
 └── lab-setup.md
 ```
 
@@ -57,7 +58,8 @@ This setup includes:
 | 05  | Module 3          | Scanning - Ports, Protocols, and Nmap                | [Day 05 Notes](day-05.md)    |
 | 06  | Module 4          | Enumeration (Intro, FTP, SSH, Practical Access)      | [Day 06 Notes](day-06.md)    |
 | 07  | Module 4          | Enumeration (SMB, SNMP, LDAP, SMTP, Tools)           | [Day 07 Notes](day-07.md)    |
-| 08  | Module 7          | Malware Threats                                      | [Day 08 Notes](day-08.md)    |
+| 08  | Module 7          | Malware Threats (Theory)                             | [Day 08 Notes](day-08.md)    |
+| 09  | Module 7          | Malware Threats  (Reverse Shell via Malware)         | [Day 09 Notes](day-09.md)    |
 
 
 > ✅ *More updates coming as I progress in the course.*

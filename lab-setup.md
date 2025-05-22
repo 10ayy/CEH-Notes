@@ -26,7 +26,7 @@ The lab includes:
 - All machines must be on the same virtual subnet for connectivity.
 
 | Machine         | IP Example     | Role           |
-|-----------------|---------------------------------|
+|-----------------|----------------|----------------|
 | Kali Linux      | 192.168.100.10 | Attacker       | 
 | Metasploitable2 | 192.168.100.20 | Victim Linux   | 
 | Windows 10      | 192.168.100.30 | Victim Windows |
