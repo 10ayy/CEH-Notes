@@ -1,6 +1,6 @@
 # Day 09 – Malware Threats (Continued) – Reverse Shell via Malware
 
-## 📘 Module: Malware Threats (Module 4)
+## 📘 Module: Malware Threats (Module 7)
 
 On Day 09, the Malware Threats module was continued with hands-on practice. The focus was on how malware can be crafted, delivered, and exploited to gain unauthorized access to a target system using reverse shells.
 
