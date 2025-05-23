@@ -49,18 +49,18 @@ This setup includes:
 
 ## 📅 Course Progress Tracker
 
-| Day | Module            | Topics Covered                                       | Link                         |
-|-----|-------------------|------------------------------------------------------|------------------------------|
-| 01  | Module 1          | Introduction to Ethical Hacking                      | [Day 01 Notes](day-01.md)    |
-| 02  | Module 1          | Cybersecurity Terminologies, CIA, Laws               | [Day 02 Notes](day-02.md)    |
-| 03  | Module 2          | Footprinting & Reconnaissance (Intro)                | [Day 03 Notes](day-03.md)    |
-| 04  | Module 2          | Footprinting Tools & Google Dorking                  | [Day 04 Notes](day-04.md)    |
-| 05  | Module 3          | Scanning - Ports, Protocols, and Nmap                | [Day 05 Notes](day-05.md)    |
-| 06  | Module 4          | Enumeration (Intro, FTP, SSH, Practical Access)      | [Day 06 Notes](day-06.md)    |
-| 07  | Module 4          | Enumeration (SMB, SNMP, LDAP, SMTP, Tools)           | [Day 07 Notes](day-07.md)    |
-| 08  | Module 7          | Malware Threats (Theory)                             | [Day 08 Notes](day-08.md)    |
-| 09  | Module 7          | Malware Threats  (Reverse Shell via Malware)         | [Day 09 Notes](day-09.md)    |
-
+| Day | Module            | Topics Covered                                            | Link                         |
+|-----|-------------------|-----------------------------------------------------------|------------------------------|
+| 01  | Module 1          | Introduction to Ethical Hacking                           | [Day 01 Notes](day-01.md)    |
+| 02  | Module 1          | Cybersecurity Terminologies, CIA, Laws                    | [Day 02 Notes](day-02.md)    |
+| 03  | Module 2          | Footprinting & Reconnaissance (Intro)                     | [Day 03 Notes](day-03.md)    |
+| 04  | Module 2          | Footprinting Tools & Google Dorking                       | [Day 04 Notes](day-04.md)    |
+| 05  | Module 3          | Scanning - Ports, Protocols, and Nmap                     | [Day 05 Notes](day-05.md)    |
+| 06  | Module 4          | Enumeration (Intro, FTP, SSH, Practical Access)           | [Day 06 Notes](day-06.md)    |
+| 07  | Module 4          | Enumeration (SMB, SNMP, LDAP, SMTP, Tools)                | [Day 07 Notes](day-07.md)    |
+| 08  | Module 7          | Malware Threats (Theory)                                  | [Day 08 Notes](day-08.md)    |
+| 09  | Module 7          | Malware Threats  (Reverse Shell via Malware)              | [Day 09 Notes](day-09.md)    |
+| 10  | Module 7          | Malware Threats (Offline System Hacking & Authentication) | [Day 10 Notes](day-10.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -68,7 +68,7 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, Nmap scripts
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, Nmap scripts, `hydra`, `msfvenom`
 - **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`
 
 ---
