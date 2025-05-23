@@ -28,6 +28,7 @@ CEH-Notes/
 ├── day-07.md
 ├── day-08.md
 ├── day-09.md
+├── day-10.md
 └── lab-setup.md
 ```
 
