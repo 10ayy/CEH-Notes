@@ -29,6 +29,8 @@ CEH-Notes/
 ├── day-08.md
 ├── day-09.md
 ├── day-10.md
+├── day-11.md
+├── day-12.md
 └── lab-setup.md
 ```
 
@@ -61,7 +63,9 @@ This setup includes:
 | 07  | Module 4          | Enumeration (SMB, SNMP, LDAP, SMTP, Tools)                | [Day 07 Notes](day-07.md)    |
 | 08  | Module 7          | Malware Threats (Theory)                                  | [Day 08 Notes](day-08.md)    |
 | 09  | Module 7          | Malware Threats  (Reverse Shell via Malware)              | [Day 09 Notes](day-09.md)    |
-| 10  | Module 7          | Malware Threats (Offline System Hacking & Authentication) | [Day 10 Notes](day-10.md)    |
+| 10  | Module 6          | System Hacking                                            | [Day 10 Notes](day-10.md)    |
+| 11  | Practical         | TryHackMe Room                                            | [Day 11 Notes](day-11.md)    |
+| 12  | Practical         | TryHackMe Room, CrackTheLab                               | [Day 12 Notes](day-12.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -69,7 +73,7 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, Nmap scripts, `hydra`, `msfvenom`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`
 - **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`
 
 ---

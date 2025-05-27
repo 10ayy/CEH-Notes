@@ -1,8 +1,8 @@
-# Day 10 – Malware Threats (Continued) – Offline System Hacking & Authentication
+# Day 10 – System Hacking & Authentication
 
-## 📘 Module: Malware Threats (Module 7)
+## 📘 Module: System Hcking (Module 6)
 
-On Day 10, the focus was on **Offline System Hacking**, a critical area that demonstrates how systems—particularly Windows and Linux—can be compromised even when not connected to a network. The session also covered fundamental authentication mechanisms used in enterprise environments.
+On Day 10, the focus was on **System Hacking**, a critical area that demonstrates how systems—particularly Windows and Linux—can be compromised even when not connected to a network. The session also covered fundamental authentication mechanisms used in enterprise environments.
 
 ---
 
@@ -63,7 +63,6 @@ On Day 10, the focus was on **Offline System Hacking**, a critical area that dem
   - Booting into **single-user mode** or
   - Using a **live CD** and mounting the file system or
   - Updating the **GRUB menu**.
-
 > **⚠️ Note**: The actual procedure is **not uploaded or shared** due to **ethical and responsible disclosure guidelines**.
 
 - This demonstrates how physical access equals root access, underscoring the importance of full disk encryption.
@@ -73,3 +72,4 @@ On Day 10, the focus was on **Offline System Hacking**, a critical area that dem
 ## 📝 Summary
 
 On Day 10, a comprehensive overview of offline system hacking was explored, including Windows authentication models like LM, NTLM, and Kerberos. Important system components such as the SAM file and Domain Controllers were discussed. The session also introduced techniques to reset or modify system passwords on both Windows and Linux, reinforcing the importance of physical security and encryption to protect systems from offline threats.
+> *Onlne system hacking can also be done with the help of msfvenom or getting the reverse shell/remote connectio of the system*
