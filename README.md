@@ -31,6 +31,7 @@ CEH-Notes/
 ├── day-10.md
 ├── day-11.md
 ├── day-12.md
+├── day-13.md
 └── lab-setup.md
 ```
 
@@ -66,6 +67,7 @@ This setup includes:
 | 10  | Module 6          | System Hacking                                            | [Day 10 Notes](day-10.md)    |
 | 11  | Practical         | TryHackMe Room                                            | [Day 11 Notes](day-11.md)    |
 | 12  | Practical         | TryHackMe Room, CrackTheLab                               | [Day 12 Notes](day-12.md)    |
+| 13  | Module 8          | Sniffing                                                  | [Day 13 Notes](day-13.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -73,8 +75,8 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`
-- **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`
+- **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`
 
 ---
 
