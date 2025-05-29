@@ -32,6 +32,7 @@ CEH-Notes/
 ├── day-11.md
 ├── day-12.md
 ├── day-13.md
+├── day-14.md
 └── lab-setup.md
 ```
 
@@ -68,6 +69,7 @@ This setup includes:
 | 11  | Practical         | TryHackMe Room                                            | [Day 11 Notes](day-11.md)    |
 | 12  | Practical         | TryHackMe Room, CrackTheLab                               | [Day 12 Notes](day-12.md)    |
 | 13  | Module 8          | Sniffing                                                  | [Day 13 Notes](day-13.md)    |
+| 14  | Module 9          | Social Engineering                                        | [Day 14 Notes](day-14.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
