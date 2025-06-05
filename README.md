@@ -35,6 +35,7 @@ CEH-Notes/
 ├── day-14.md
 ├── day-15.md
 ├── day-16.md
+├── day-17.md
 └── lab-setup.md
 ```
 
@@ -74,6 +75,7 @@ This setup includes:
 | 14  | Module 9          | Social Engineering                                        | [Day 14 Notes](day-14.md)    |
 | 15  | Module 10         | Denial-of-Service                                         | [Day 15 Notes](day-15.md)    |
 | 16  | Module 11         | Session Hijacking                                         | [Day 16 Notes](day-16.md)    |
+| 17  | Module 14         | Hacking Web Application                                   | [Day 17 Notes](day-17.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -81,7 +83,7 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `wireshark`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `wireshark`, `BurpSuite`
 - **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`
 
 ---
