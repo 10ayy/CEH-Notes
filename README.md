@@ -36,6 +36,7 @@ CEH-Notes/
 ├── day-15.md
 ├── day-16.md
 ├── day-17.md
+├── day-18.md
 └── lab-setup.md
 ```
 
@@ -76,6 +77,7 @@ This setup includes:
 | 15  | Module 10         | Denial-of-Service                                         | [Day 15 Notes](day-15.md)    |
 | 16  | Module 11         | Session Hijacking                                         | [Day 16 Notes](day-16.md)    |
 | 17  | Module 14         | Hacking Web Application                                   | [Day 17 Notes](day-17.md)    |
+| 18  | Module 14         | Hacking Web Application (Practical: DVWA)                 | [Day 18 Notes](day-18.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
