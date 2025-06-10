@@ -37,6 +37,7 @@ CEH-Notes/
 ├── day-16.md
 ├── day-17.md
 ├── day-18.md
+├── day-19.md
 └── lab-setup.md
 ```
 
@@ -78,6 +79,7 @@ This setup includes:
 | 16  | Module 11         | Session Hijacking                                         | [Day 16 Notes](day-16.md)    |
 | 17  | Module 14         | Hacking Web Application                                   | [Day 17 Notes](day-17.md)    |
 | 18  | Module 14         | Hacking Web Application (Practical: DVWA)                 | [Day 18 Notes](day-18.md)    |
+| 19  | Practical         | TryHackMe Practical Lab                                   | [Day 19 Notes](day-19.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -85,8 +87,8 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `wireshark`, `BurpSuite`
-- **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`
+- **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`, `base64topdf`, `CyberChef`, `CookieEditor`, `FoxyProxy`, `wireshark`, `BurpSuite`
 
 ---
 
