@@ -80,6 +80,7 @@ This setup includes:
 | 17  | Module 14         | Hacking Web Application                                   | [Day 17 Notes](day-17.md)    |
 | 18  | Module 14         | Hacking Web Application (Practical: DVWA)                 | [Day 18 Notes](day-18.md)    |
 | 19  | Practical         | TryHackMe Practical Lab                                   | [Day 19 Notes](day-19.md)    |
+| 20  | Module 13         | Hacking Web Servers (Theory + Practical: DVWA)            | [Day 20 Notes](day-20.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
