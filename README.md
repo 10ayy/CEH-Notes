@@ -38,6 +38,8 @@ CEH-Notes/
 ├── day-17.md
 ├── day-18.md
 ├── day-19.md
+├── day-20.md
+├── day-21.md
 └── lab-setup.md
 ```
 
@@ -81,6 +83,7 @@ This setup includes:
 | 18  | Module 14         | Hacking Web Application (Practical: DVWA)                 | [Day 18 Notes](day-18.md)    |
 | 19  | Practical         | TryHackMe Practical Lab                                   | [Day 19 Notes](day-19.md)    |
 | 20  | Module 13         | Hacking Web Servers (Theory + Practical: DVWA)            | [Day 20 Notes](day-20.md)    |
+| 21  | Module 15         | SQL Injection                                             | [Day 21 Notes](day-21.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -88,7 +91,7 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `sqlmap`
 - **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`, `base64topdf`, `CyberChef`, `CookieEditor`, `FoxyProxy`, `wireshark`, `BurpSuite`
 
 ---
