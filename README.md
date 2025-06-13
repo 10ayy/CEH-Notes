@@ -40,6 +40,7 @@ CEH-Notes/
 ├── day-19.md
 ├── day-20.md
 ├── day-21.md
+├── day-22.md
 └── lab-setup.md
 ```
 
@@ -73,8 +74,8 @@ This setup includes:
 | 08  | Module 7          | Malware Threats (Theory)                                  | [Day 08 Notes](day-08.md)    |
 | 09  | Module 7          | Malware Threats  (Reverse Shell via Malware)              | [Day 09 Notes](day-09.md)    |
 | 10  | Module 6          | System Hacking                                            | [Day 10 Notes](day-10.md)    |
-| 11  | Practical         | TryHackMe Room                                            | [Day 11 Notes](day-11.md)    |
-| 12  | Practical         | TryHackMe Room, CrackTheLab                               | [Day 12 Notes](day-12.md)    |
+| 11  | Practical         | TryHackMe Practical Lab                                   | [Day 11 Notes](day-11.md)    |
+| 12  | Practical         | TryHackMe Practical Lab, CrackTheLab                      | [Day 12 Notes](day-12.md)    |
 | 13  | Module 8          | Sniffing                                                  | [Day 13 Notes](day-13.md)    |
 | 14  | Module 9          | Social Engineering                                        | [Day 14 Notes](day-14.md)    |
 | 15  | Module 10         | Denial-of-Service                                         | [Day 15 Notes](day-15.md)    |
@@ -84,6 +85,7 @@ This setup includes:
 | 19  | Practical         | TryHackMe Practical Lab                                   | [Day 19 Notes](day-19.md)    |
 | 20  | Module 13         | Hacking Web Servers (Theory + Practical: DVWA)            | [Day 20 Notes](day-20.md)    |
 | 21  | Module 15         | SQL Injection                                             | [Day 21 Notes](day-21.md)    |
+| 22  | Practical         | TryHackMe Practical Lab and PortSwigger Introduction      | [Day 22 Notes](day-22.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -91,7 +93,7 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `sqlmap`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `sqlmap`, `netcat`
 - **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`, `base64topdf`, `CyberChef`, `CookieEditor`, `FoxyProxy`, `wireshark`, `BurpSuite`
 
 ---
