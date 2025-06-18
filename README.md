@@ -41,6 +41,8 @@ CEH-Notes/
 ├── day-20.md
 ├── day-21.md
 ├── day-22.md
+├── day-23a.md
+├── day-23b.md
 └── lab-setup.md
 ```
 
@@ -86,6 +88,8 @@ This setup includes:
 | 20  | Module 13         | Hacking Web Servers (Theory + Practical: DVWA)            | [Day 20 Notes](day-20.md)    |
 | 21  | Module 15         | SQL Injection                                             | [Day 21 Notes](day-21.md)    |
 | 22  | Practical         | TryHackMe Practical Lab and PortSwigger Introduction      | [Day 22 Notes](day-22.md)    |
+| 23  | Module 18         | IoT Hacking                                               | [Day 23a Notes](day-23a.md)    |
+| 23  | Module 19         | Cloud Computing                                           | [Day 23b Notes](day-23b.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
