@@ -44,6 +44,7 @@ CEH-Notes/
 ├── day-23a.md
 ├── day-23b.md
 ├── day-24.md
+├── day-25.md
 └── lab-setup.md
 ```
 
@@ -92,6 +93,7 @@ This setup includes:
 | 23  | Module 18         | IoT Hacking                                               | [Day 23a Notes](day-23a.md)    |
 | 23  | Module 19         | Cloud Computing                                           | [Day 23b Notes](day-23b.md)    |
 | 24  | Module 12         | Evading IDS, Firewalls and Honeypots                      | [Day 24 Notes](day-24.md)    |
+| 25  | Module 20         | Cryptography                                              | [Day 24 Notes](day-24.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -99,8 +101,8 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `sqlmap`, `netcat`, `HoneyBot`, `pentbox`, `wafw00f`
-- **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`, `base64topdf`, `CyberChef`, `CookieEditor`, `FoxyProxy`, `wireshark`, `BurpSuite`, `Snort`, `Valhala`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `sqlmap`, `netcat`, `HoneyBot`, `pentbox`, `wafw00f`, `md5sum`, `hashcalc`, `cyberchef`, `cryptr`, `hashcat`, `john`, `veracrypt`
+- **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`, `base64topdf`, `CyberChef`, `CookieEditor`, `FoxyProxy`, `wireshark`, `BurpSuite`, `Snort`, `Valhala`, `crackthestation.com`, `Base64.com`, `mdshashgenerator`
 
 ---
 
