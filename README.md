@@ -47,6 +47,7 @@ CEH-Notes/
 ├── day-25.md
 ├── day-26a.md
 ├── day-26b.md
+├── day-27.md
 └── lab-setup.md
 ```
 
@@ -70,20 +71,20 @@ This setup includes:
 
 | Day | Module            | Topics Covered                                            | Link                         |
 |-----|-------------------|-----------------------------------------------------------|------------------------------|
-| 01  | Module 1          | Introduction to Ethical Hacking                           | [Day 01 Notes](day-01.md)    |
-| 02  | Module 1          | Cybersecurity Terminologies, CIA, Laws                    | [Day 02 Notes](day-02.md)    |
-| 03  | Module 2          | Footprinting & Reconnaissance (Intro)                     | [Day 03 Notes](day-03.md)    |
-| 04  | Module 2          | Footprinting Tools & Google Dorking                       | [Day 04 Notes](day-04.md)    |
-| 05  | Module 3          | Scanning - Ports, Protocols, and Nmap                     | [Day 05 Notes](day-05.md)    |
-| 06  | Module 4          | Enumeration (Intro, FTP, SSH, Practical Access)           | [Day 06 Notes](day-06.md)    |
-| 07  | Module 4          | Enumeration (SMB, SNMP, LDAP, SMTP, Tools)                | [Day 07 Notes](day-07.md)    |
-| 08  | Module 7          | Malware Threats (Theory)                                  | [Day 08 Notes](day-08.md)    |
-| 09  | Module 7          | Malware Threats  (Reverse Shell via Malware)              | [Day 09 Notes](day-09.md)    |
-| 10  | Module 6          | System Hacking                                            | [Day 10 Notes](day-10.md)    |
+| 01  | Module 01          | Introduction to Ethical Hacking                           | [Day 01 Notes](day-01.md)    |
+| 02  | Module 01          | Cybersecurity Terminologies, CIA, Laws                    | [Day 02 Notes](day-02.md)    |
+| 03  | Module 02          | Footprinting & Reconnaissance (Intro)                     | [Day 03 Notes](day-03.md)    |
+| 04  | Module 02          | Footprinting Tools & Google Dorking                       | [Day 04 Notes](day-04.md)    |
+| 05  | Module 03          | Scanning - Ports, Protocols, and Nmap                     | [Day 05 Notes](day-05.md)    |
+| 06  | Module 04          | Enumeration (Intro, FTP, SSH, Practical Access)           | [Day 06 Notes](day-06.md)    |
+| 07  | Module 04          | Enumeration (SMB, SNMP, LDAP, SMTP, Tools)                | [Day 07 Notes](day-07.md)    |
+| 08  | Module 07          | Malware Threats (Theory)                                  | [Day 08 Notes](day-08.md)    |
+| 09  | Module 07          | Malware Threats  (Reverse Shell via Malware)              | [Day 09 Notes](day-09.md)    |
+| 10  | Module 06          | System Hacking                                            | [Day 10 Notes](day-10.md)    |
 | 11  | Practical         | TryHackMe Practical Lab                                   | [Day 11 Notes](day-11.md)    |
 | 12  | Practical         | TryHackMe Practical Lab, CrackTheLab                      | [Day 12 Notes](day-12.md)    |
-| 13  | Module 8          | Sniffing                                                  | [Day 13 Notes](day-13.md)    |
-| 14  | Module 9          | Social Engineering                                        | [Day 14 Notes](day-14.md)    |
+| 13  | Module 08          | Sniffing                                                  | [Day 13 Notes](day-13.md)    |
+| 14  | Module 09          | Social Engineering                                        | [Day 14 Notes](day-14.md)    |
 | 15  | Module 10         | Denial-of-Service                                         | [Day 15 Notes](day-15.md)    |
 | 16  | Module 11         | Session Hijacking                                         | [Day 16 Notes](day-16.md)    |
 | 17  | Module 14         | Hacking Web Application                                   | [Day 17 Notes](day-17.md)    |
@@ -98,6 +99,7 @@ This setup includes:
 | 25  | Module 20         | Cryptography                                              | [Day 25 Notes](day-25.md)    |
 | 26  | Module 17         | Hacking Mobile Platforms                                  | [Day 26a Notes](day-26a.md)    |
 | 26  | Module 16         | Hacking Wireless Networks                                 | [Day 26b Notes](day-26b.md)    |
+| 27  | Module 05         | Vunlerability Analysis                                    | [Day 27 Notes](day-27.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -105,8 +107,8 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `sqlmap`, `netcat`, `HoneyBot`, `pentbox`, `wafw00f`, `md5sum`, `hashcalc`, `cyberchef`, `cryptr`, `hashcat`, `john`, `veracrypt`
-- **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`, `base64topdf`, `CyberChef`, `CookieEditor`, `FoxyProxy`, `wireshark`, `BurpSuite`, `Snort`, `Valhala`, `crackthestation.com`, `Base64.com`, `mdshashgenerator`, `AhMyth`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `sqlmap`, `netcat`, `HoneyBot`, `pentbox`, `wafw00f`, `md5sum`, `hashcalc`, `cyberchef`, `cryptr`, `hashcat`, `john`, `veracrypt`, `tgpt`
+- **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`, `base64topdf`, `CyberChef`, `CookieEditor`, `FoxyProxy`, `wireshark`, `BurpSuite`, `Snort`, `Valhala`, `crackthestation.com`, `Base64.com`, `mdshashgenerator`, `AhMyth`, `Nessus Essentials`
 
 ---
 
