@@ -48,6 +48,7 @@ CEH-Notes/
 ├── day-26a.md
 ├── day-26b.md
 ├── day-27.md
+├── day-28.md
 └── lab-setup.md
 ```
 
@@ -100,6 +101,7 @@ This setup includes:
 | 26  | Module 17         | Hacking Mobile Platforms                                  | [Day 26a Notes](day-26a.md)    |
 | 26  | Module 16         | Hacking Wireless Networks                                 | [Day 26b Notes](day-26b.md)    |
 | 27  | Module 05         | Vunlerability Analysis                                    | [Day 27 Notes](day-27.md)    |
+| 28  | Module 16         | Hacking Wireless Networks(Practical)                      | [Day 28 Notes](day-28.md)    |
 
 > ✅ *More updates coming as I progress in the course.*
 
@@ -107,7 +109,7 @@ This setup includes:
 
 ## 🧠 Tools Covered So Far
 
-- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `sqlmap`, `netcat`, `HoneyBot`, `pentbox`, `wafw00f`, `md5sum`, `hashcalc`, `cyberchef`, `cryptr`, `hashcat`, `john`, `veracrypt`, `tgpt`
+- **CLI-Based**: `nmap`, `nslookup`, `dig`, `theHarvester`, `enum4linux`, `rustscan`, `msfconsole`, `whois`, `subfinder`, `dirb`, `gobuster`, `dnsrecon`, `dmitry`, `nbtstat`, `enum4linux`, `smbclient`, `snmpwalk`, `ntptrace`, `telnet`, `Nmap scripts`, `hydra`, `msfvenom`, `hydra`, `ettercap`, `bettercap`, `macchanger`, `macof`, `yersinia`, `zphisher`, `setoolkit`, `camphish`, `goldeneye`, `sqlmap`, `netcat`, `HoneyBot`, `pentbox`, `wafw00f`, `md5sum`, `hashcalc`, `cyberchef`, `cryptr`, `hashcat`, `john`, `veracrypt`, `tgpt`, `airmon-ng`, `airocrack-ng`, `airplay-ng`
 - **GUI-Based**: `Zenmap`, `Angry IP Scanner`, `Wappalyzer`, `Hunter.io`, `Netcraft`, `Shodan`, `Censys`, `dnsdumpster.com`, `Technitium`, `base64topdf`, `CyberChef`, `CookieEditor`, `FoxyProxy`, `wireshark`, `BurpSuite`, `Snort`, `Valhala`, `crackthestation.com`, `Base64.com`, `mdshashgenerator`, `AhMyth`, `Nessus Essentials`
 
 ---
